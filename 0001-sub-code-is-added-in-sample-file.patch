@@ -1,0 +1,25 @@
+From 1be1781bc6c8f2fd7ac53e956bf68713d088c0e7 Mon Sep 17 00:00:00 2001
+From: yeshwanth <yeshwanthreddy77@gmail.com>
+Date: Tue, 5 Jul 2016 22:32:22 -0400
+Subject: [PATCH] sub code is added in sample file
+
+---
+ sample | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+diff --git a/sample b/sample
+index b400214..d36e2d4 100644
+--- a/sample
++++ b/sample
+@@ -3,3 +3,8 @@ a,b
+ 
+ add (a+b)
+ a,b
++
++
++sub (a-b)
++a,b
++
+-- 
+2.9.0.windows.1
+
